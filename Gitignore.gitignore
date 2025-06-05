@@ -1,6 +1,6 @@
 */.local*
 */.local/ProjectSettings.json*
-*/dataManagerElementsOrder.json*
+*/.local/dataManagerElementsOrder.json*
 */.local*.json
 */.settings*
 */.local/db/references.db*
