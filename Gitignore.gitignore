@@ -3,4 +3,5 @@
 */dataManagerElementsOrder.json*
 */.local*.json
 */.settings*
-*/.local/.db/.references.db*
+*/.local/db/.references.db*
+
