@@ -3,6 +3,6 @@
 */.local/dataManagerElementsOrder.json*
 */.local*.json
 */.settings*
-*/.local/db/references.db*
+*/*/db/references.db*
 */.local*.db
 
