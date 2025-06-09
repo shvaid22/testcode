@@ -1,19 +1,19 @@
 {
-  "name": "acmeTest",
-  "projectId": "192375bd-2bb9-44af-97c2-da3831252a56",
+  "name": "Weather",
+  "projectId": "bcaae31e-30d2-46eb-bd44-dafa3829793f",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.19.0-preview]",
+    "UiPath.Excel.Activities": "[2.18.0-preview]",
     "UiPath.Mail.Activities": "[1.18.2]",
-    "UiPath.System.Activities": "[23.4.0-preview]",
-    "UiPath.Testing.Activities": "[23.4.0-preview]",
+    "UiPath.System.Activities": "[23.2.0-preview]",
+    "UiPath.Testing.Activities": "[23.2.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.2.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "23.4.0.0",
+  "studioVersion": "23.2.0.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -44,14 +44,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "23b1af8e-b0a8-4702-b2ad-cfad44389da4",
+      "uniqueId": "c3740b62-6b06-455b-95ab-b2dc011acadb",
       "input": [],
       "output": []
     }
